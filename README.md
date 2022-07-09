@@ -23,7 +23,7 @@ The purpose of this project is to get a better understanding of how mental healt
 * Sklearn
 
 ## Project Description
-(Provide more detailed overview of the project.  The data is sourced on [Kaggle.com](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-2016). In the first stages of the project the high dimensionality und un-uniformity of answers was the biggest challenge. Data Cleaning and Preprocessing was definetly the most time-consuming part of this project. (Also one of the reasons why I picked this dataset). 
+The data is sourced on [Kaggle.com](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-2016). In the first stages of the project the high dimensionality und un-uniformity of answers was the biggest challenge. Data Cleaning and Preprocessing was definetly the most time-consuming part of this project. (Also one of the reasons why I picked this dataset).
 
 ## Getting Started
 
