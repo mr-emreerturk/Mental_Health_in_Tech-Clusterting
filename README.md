@@ -2,6 +2,8 @@
 
 #### Project Status: Active ✅
 
+#### Notebook: [here](https://github.com/mr-emreerturk/Mental_Health_in_Tech-Clusterting/blob/main/notebook_EDA_Preprocessing_Clustering.ipynb)
+
 ## Project Intro/Objective
 The purpose of this project is to get a better understanding of how mental health is effecting employees in the tech industry. I worked on this dataset as part of my IU studies and hoped to find some interesting insights and also changes that tech companies could take towards this matter. 
 
